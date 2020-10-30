@@ -1,0 +1,9 @@
+C:\Users\SAM\Desktop\Programacion-III\C#\Test\Test\bin\Debug\Test.exe.config
+C:\Users\SAM\Desktop\Programacion-III\C#\Test\Test\bin\Debug\Test.exe
+C:\Users\SAM\Desktop\Programacion-III\C#\Test\Test\bin\Debug\Test.pdb
+C:\Users\SAM\Desktop\Programacion-III\C#\Test\Test\obj\Debug\Game.frmPrincipal.resources
+C:\Users\SAM\Desktop\Programacion-III\C#\Test\Test\obj\Debug\Test.Properties.Resources.resources
+C:\Users\SAM\Desktop\Programacion-III\C#\Test\Test\obj\Debug\Game.csproj.GenerateResource.cache
+C:\Users\SAM\Desktop\Programacion-III\C#\Test\Test\obj\Debug\Game.csproj.CoreCompileInputs.cache
+C:\Users\SAM\Desktop\Programacion-III\C#\Test\Test\obj\Debug\Test.exe
+C:\Users\SAM\Desktop\Programacion-III\C#\Test\Test\obj\Debug\Test.pdb
